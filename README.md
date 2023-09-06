@@ -1,0 +1,1 @@
+# try_react_django_postgresql_uuid
